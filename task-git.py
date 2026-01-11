@@ -11,3 +11,5 @@ for sklep in shopping_list:
     ilosc += len(shopping_list[sklep])
 
 print("W sumie kupuję", ilosc, "produktów.")
+
+print("Pozdrowienia dla Mentora")
