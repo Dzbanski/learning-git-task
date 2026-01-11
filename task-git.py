@@ -4,7 +4,7 @@ shopping_list = {
     "apteka" : ["ibuprofen", "witaminy", "bandaż"]
 }
 ilosc = 0
-print("Lista zakupów")
+print("Lista zakupów:")
 
 for sklep in shopping_list:
     print("Idę do", sklep.title(), "i kupuję tam:",", ".join(element.title() for element in shopping_list[sklep]) + ".")
