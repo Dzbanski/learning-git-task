@@ -1,6 +1,7 @@
 shopping_list = {
     "piekarnia" : ["chleb", "pączek", "bułki"],
-    "warzywniak" : ["marchew", "seler", "rukola"]
+    "warzywniak" : ["marchew", "seler", "rukola"],
+    "apteka" : ["ibuprofen", "witaminy", "bandaż"]
 }
 ilosc = 0
 print("Lista zakupów")
